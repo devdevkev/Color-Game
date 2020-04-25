@@ -2,7 +2,7 @@
 
 Basic Color Game with Javascript.
 
-~How To Play~
+How To Play:
 
 1. Choose your difficulty. Easy or Hard.
 -
