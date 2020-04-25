@@ -10,7 +10,9 @@ How To Play:
 
 3. Each square you get wrong will fade away. Try to keep your guesses to a minimum for a real challenge!
 
-4. Once you choose the right square, all squares and RBG header will highlight the correct color! Good Luck!
+4. If the colors displayed are too challenging, you can always hit the "change colors" button on the header.
+
+5. Once you choose the right square, all squares and RBG header will highlight the correct color! Good Luck!
 
 
 -DevDevKev
